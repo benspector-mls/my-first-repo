@@ -9,3 +9,8 @@ Hello, my name is Ben Spector and I am a software engineer.
 - I love to **rock climb**
 
 > Love is the will to extend oneself for another's spiritual growth
+
+## My Favorite Dishes
+- Black bean quesadillas
+- Andouille Sausage Pasta
+- Fried Rice
