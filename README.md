@@ -1,4 +1,4 @@
-# my-first-repo
+# This is my first repository
 
 Hello, my name is Ben Spector and I am a software engineer and the lead instructor of Mahaba at Marcy Lab School.
 
