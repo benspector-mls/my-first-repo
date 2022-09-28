@@ -1,6 +1,6 @@
 # my-first-repo
 
-Hello, my name is Ben Spector and I am a software engineer.
+Hello, my name is Ben Spector and I am a software engineer and the lead instructor of Mahaba at Marcy Lab School.
 
 ## Fun Facts
 - I have *three* older brothers
