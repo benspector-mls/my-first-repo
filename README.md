@@ -14,4 +14,4 @@ Hello, my name is Ben Spector and I am a software engineer and the lead instruct
 - Pinto bean quesadillas
 - Andouille Sausage Pasta
 - Fried Rice
-- sushi
+- Spicy Salmon Onigiri
